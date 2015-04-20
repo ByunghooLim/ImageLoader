@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ByunghooLim/AndroidStudioProjects/Wcafe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/ByunghooLim/AndroidStudioProjects/Wcafe/app/build/intermediates/pre-dexed/debug/classes-d9d3c782ca6cf5de0c9066461a33a33e76b1a348.jar" />
+    </item>
+    <item
+        jar="/Users/ByunghooLim/AndroidStudioProjects/Wcafe/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/ByunghooLim/AndroidStudioProjects/Wcafe/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-931d82b1259f89f03bf58b8fe63c10cda4507247.jar" />
+    </item>
+    <item
+        jar="/Users/ByunghooLim/AndroidStudioProjects/Wcafe/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/ByunghooLim/AndroidStudioProjects/Wcafe/app/build/intermediates/pre-dexed/debug/classes-c146ca620578e67233d33eaeec9c317803cf32f6.jar" />
+    </item>
+    <item
+        jar="/Users/ByunghooLim/AndroidStudioProjects/Wcafe/app/build/intermediates/exploded-aar/Wcafe/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44c198d5293604361b2566c9728e69a3f71f31cd">
+        <dex dex="/Users/ByunghooLim/AndroidStudioProjects/Wcafe/app/build/intermediates/pre-dexed/debug/classes-e6affe531f93e3930cadc549d94755e18ea8f5c2.jar" />
+    </item>
+    <item
+        jar="/Users/ByunghooLim/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/ByunghooLim/AndroidStudioProjects/Wcafe/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-1f13524136a663b10184d692313b624a72cf960b.jar" />
+    </item>
+
+</items>
